@@ -1,2 +1,2 @@
 # AISpice
-Agentic AI-enabled circuit design and simulation application (absolute prototype)
+Agentic and generative AI-enabled circuit design and simulation application (absolute prototype)
